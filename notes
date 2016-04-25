@@ -1,0 +1,7 @@
+used separate IDs in hidden inputs - may do it on the body instead
+
+event listener
+$(document).on "click, "selector for button
+
+headers content-type when passing ID
+authorization bearers
